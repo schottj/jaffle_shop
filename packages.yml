@@ -1,2 +1,0 @@
-packages:
-  - git: "https://{{env_var('DBT_ENV_SECRET_GIT_TOKEN')}}@github.com/schottj/dbt-utils-private.git"
